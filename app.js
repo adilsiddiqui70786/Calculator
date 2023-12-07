@@ -1,5 +1,4 @@
 // Select the display element and all buttons
-
 const display = document.querySelector(".display");
 const buttons = document.querySelectorAll("button");
 const speacialChars = ["%", "*", "/", "-", "+", "="];
